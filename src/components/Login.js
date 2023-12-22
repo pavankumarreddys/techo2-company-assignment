@@ -33,7 +33,7 @@ const Login = () => {
     <Layout title="Login - Ecommerce App">
       <div className="container-fluid bg-info d-flex align-items-center justify-content-center" style={{ minHeight: "90vh" }}>
         <form onSubmit={handleSubmit} className="p-4 border rounded">
-          <h4 className="text-center mb-4">LOGIN FORM</h4>
+          <h4 className="text-center mb-4">LOGIN FORM op</h4>
           <div className="mb-3">
             <input
               type="email"
